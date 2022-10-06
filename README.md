@@ -8,7 +8,7 @@ Hey! I am Om. Trying to find my footing in this amazing community of developers 
 
 * 🖥️  See my portfolio at [NotOm](http://notom.deta.dev)
 * 🚀  I'm currently working on [My Webfolio](http://notom.deta.dev)
-* 🧠  I'm learning Design fundamentals
+* 🧠  I'm currently learning what i want to learn and what i need to learn.
 * ⚡  I am a bit Clumsy even with code 😶‍🌫️
 * ♟️  Always up for a chess game.
 * 🌠  Can go on talking  forever about physics,movies and music.
