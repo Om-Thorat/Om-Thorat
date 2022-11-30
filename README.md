@@ -22,16 +22,16 @@ Hey! I am Om. Trying to find my footing in this amazing community of developers 
 <img height="36" width="36" src="https://cdn.simpleicons.org/javascript" alt="javascript" />
 <img height="36" width="36" src="https://cdn.simpleicons.org/html5" alt="html5" />
 <img height="36" width="36" src="https://cdn.simpleicons.org/css3" alt="css3"/>
-<img height="36" width="36" src="https://cdn.simpleicons.org/flask" alt="flask"/>
-<img height="36" width="36" src="https://cdn.simpleicons.org/figma" alt="figma"/>
-<img height="36" width="36" src="https://cdn.simpleicons.org/django" alt="django"/>
+<img height="36" width="36" src="https://cdn.simpleicons.org/flask/white" alt="flask"/>
+<img height="36" width="36" src="https://cdn.simpleicons.org/figma/hotpink" alt="figma"/>
+<!---<img height="36" width="36" src="https://cdn.simpleicons.org/django" alt="django"/>---!>
 </p>
 
 
 ### Socials
 
-<a href="http://www.instagram.com/ObviouslynotOm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/probablyom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
+ <a href="https://www.twitter.com/probablyom" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.simpleicons.org/twitter" alt="twitter" />
+ <a href="https://www.instagram.com/obviouslynotom/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.simpleicons.org/instagram" alt="instagram" />
 ### Badges
 
 <b>My GitHub Stats</b>
