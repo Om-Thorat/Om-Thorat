@@ -30,8 +30,8 @@ Hi 👋 My name is Om!
 
  <a href="https://www.twitter.com/probablyom" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.simpleicons.org/twitter" alt="twitter" />
  <a href="https://www.instagram.com/obviouslynotom/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.simpleicons.org/instagram" alt="instagram" />
-### Badges
+<!---### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Om-Thorat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Thorat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Om-Thorat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Thorat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>---!>
