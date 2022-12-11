@@ -12,6 +12,11 @@ Hi 👋 My name is Om!
 * 🌠  Can go on talking  forever about physics,movies and music.
 * 📖  Currently Reading Dune.
 
+### Some active silly little websites 🎈
+[Webfolio 📀](https://notom.deta.dev)
+
+[ColorMash 🎨](https://ColorMash.deta.dev)
+
 ### Skills
 
 
