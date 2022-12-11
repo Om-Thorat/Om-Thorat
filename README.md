@@ -4,10 +4,10 @@ Hi 👋 My name is Om!
 <!-- Web Dev 📀 -->
 <!-- ------------>
 
-* 🖥️  See my portfolio at [NotOm](http://notom.deta.dev)
 <!-- * 🚀  I'm currently working TOWARDS JEE. -->
 <!-- * 🧠  I'm currently learning what i want to learn and what i need to learn. -->
 <!-- * ♟️  Always up for a chess game. -->
+* 🖥️  See my portfolio at [NotOm](http://notom.deta.dev)
 * 🙇  Really REALLY sorry for unclean / undocumented code, I still have an exam to prepare for so always in a rush.
 * 🌠  Can go on talking  forever about physics,movies and music.
 * 📖  Currently Reading Dune.
