@@ -30,6 +30,8 @@ Hi 👋 My name is Om!
 <!---<img height="36" width="36" src="https://cdn.simpleicons.org/django" alt="django"/>---!>
 </p>
 
+### Activity
+
 ![](https://notom.deta.dev/spotify?ok)
 
 ### Socials
