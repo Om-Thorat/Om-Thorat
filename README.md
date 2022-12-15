@@ -32,7 +32,7 @@ Hi 👋 My name is Om!
 
 ### Activity
 
-![](https://notom.deta.dev/spotify?ok)
+<a href="https://notom.deta.dev/spotify" target="_blank">![](https://notom.deta.dev/spotify?ok)</a>
 
 ### Socials
 
