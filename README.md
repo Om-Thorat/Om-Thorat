@@ -32,12 +32,15 @@ Hi 👋 My name is Om!
 
 ### Activity
 
-<a href="https://notom.deta.dev/spotify" target="_blank">![](https://notom.deta.dev/spotify?ok)</a>
+<a href="https://notom.deta.dev/spotify" target="_blank">![Spotify](https://notom.deta.dev/spotify?ok)</a>
+
+>Want to use this card? [Say no more!](https://github.com/Om-Thorat/Readme-Spotify-Now-Playing)
 
 ### Socials
 
  <a href="https://www.twitter.com/probablyom" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.simpleicons.org/twitter" alt="twitter" />
  <a href="https://www.instagram.com/obviouslynotom/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.simpleicons.org/instagram" alt="instagram" />
+
 <!---### Badges
 
 <b>My GitHub Stats</b>
