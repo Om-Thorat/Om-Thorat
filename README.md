@@ -32,7 +32,7 @@ Hi 👋 My name is Om!
 
 ### Activity
 
-<a href="https://notom.deta.dev/spotify" target="_blank">![Spotify](https://notom.deta.dev/spotify?ok)</a>
+<a href="https://notom.deta.dev/spotify" target="_blank">![Spotify](https://notom.vercel.app/spotify)</a>
 
 >Want to use this card? [Say no more!](https://github.com/Om-Thorat/Readme-Spotify-Now-Playing)
 
