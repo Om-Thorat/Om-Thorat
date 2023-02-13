@@ -7,13 +7,13 @@ Hi 👋 My name is Om!
 <!-- * 🚀  I'm currently working TOWARDS JEE. -->
 <!-- * 🧠  I'm currently learning what i want to learn and what i need to learn. -->
 <!-- * ♟️  Always up for a chess game. -->
-* 🖥️  See my portfolio at [NotOm](http://notom.vercel.app)
+* 🖥️  See my portfolio at [NotOm](https://om-thorat.github.io)
 * 🙇  Really REALLY sorry for unclean / undocumented code, I still have an exam to prepare for so always in a rush.
 * 🌠  Can go on talking  forever about physics,movies and music.
-* 📖  Currently Reading Dune.
+* 📖  Currently Reading All the bright places.
 
 ### Some active silly little websites 🎈
-[Webfolio 📀](https://notom.vercel.app)
+[Webfolio 📀](https://om-thorat.github.io)
 
 [ColorMash 🎨](https://ColorMash.deta.dev)
 
@@ -23,11 +23,14 @@ Hi 👋 My name is Om!
 <p align="left">
 <img height="36" width="36" src="https://cdn.simpleicons.org/python" alt="python"/>
 <img height="36" width="36" src="https://cdn.simpleicons.org/javascript" alt="javascript" />
+<img height="36" width="36" src="https://cdn.simpleicons.org/typescript" alt="typescript" />
+<img height="36" width="36" src="https://cdn.simpleicons.org/astro" alt="astro" />
+<img height="36" width="36" src="https://cdn.simpleicons.org/svelte" alt="svelte" />
 <img height="36" width="36" src="https://cdn.simpleicons.org/html5" alt="html5" />
 <img height="36" width="36" src="https://cdn.simpleicons.org/css3" alt="css3"/>
 <img height="36" width="36" src="https://cdn.simpleicons.org/flask/white" alt="flask"/>
 <img height="36" width="36" src="https://cdn.simpleicons.org/figma/hotpink" alt="figma"/>
-<!---<img height="36" width="36" src="https://cdn.simpleicons.org/django" alt="django"/>---!>
+<img height="36" width="36" src="https://cdn.simpleicons.org/django" alt="django"/>
 </p>
 
 ### Activity
