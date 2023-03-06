@@ -16,6 +16,8 @@ Hi 👋 My name is Om!
 
 [ColorMash 🎨](https://ColorMash.deta.dev)
 
+Clean Watch Later 🧹 [Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/clean-watch-later/)
+
 ### Skills
 
 
