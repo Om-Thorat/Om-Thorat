@@ -9,8 +9,7 @@ Hi 👋 My name is Om!
 <!-- * ♟️  Always up for a chess game. -->
 * 🖥️  See my portfolio at [NotOm](https://om-thorat.github.io)
 * 🙇  Really REALLY sorry for unclean / undocumented code, I still have an exam to prepare for so always in a rush.
-* 🌠  Can go on talking  forever about physics,movies and music.
-* 📖  Currently Reading All the bright places.
+* 📖  Currently Reading The Midnight Library.
 
 ### Some active silly little websites 🎈
 [Webfolio 📀](https://om-thorat.github.io)
