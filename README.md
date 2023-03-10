@@ -14,6 +14,8 @@ Hi 👋 My name is Om!
 ### Some active silly little websites 🎈
 [Webfolio 📀](https://om-thorat.github.io)
 
+[LearnScales 🎶](https://learnscales.vercel.app/)
+
 [ColorMash 🎨](https://ColorMash.deta.dev)
 
 Clean Watch Later 🧹 [Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/clean-watch-later/)
