@@ -11,7 +11,9 @@ Hi 👋 My name is Om!
 * 🙇  Really REALLY sorry for unclean / undocumented code, I still have an exam to prepare for so always in a rush.
 * 📖  Currently Reading The Midnight Library.
 
-### Some active silly little websites 🎈
+### Some active silly little websites and apps🎈
+[Defer 🪄](https://github.com/Om-Thorat/Defer)
+
 [Webfolio 📀](https://om-thorat.github.io)
 
 [LearnScales 🎶](https://learnscales.vercel.app/)
