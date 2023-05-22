@@ -9,6 +9,7 @@ Hi 👋 My name is Om!
 <!-- * ♟️  Always up for a chess game. -->
 * 🖥️  Get to know me more at [NotOm](https://om-thorat.github.io)
 * 🙇  Really REALLY sorry for unclean / undocumented code, I still have an exam to prepare for so always in a rush.
+* 🌠  I Usually use **.py  .ts  .rs** and for frameworks **.svelte  .astro  flask and tauri.**
 
 ### Some active silly little websites and apps🎈
 [Defer 🪄](https://github.com/Om-Thorat/Defer)
@@ -23,7 +24,7 @@ Clean Watch Later 🧹 [Firefox addon](https://addons.mozilla.org/en-US/firefox/
 
 ### Activity
 
-<a href="https://notom.deta.dev/spotify" target="_blank">![Spotify](https://notom.vercel.app/spotify)</a>
+<a href="https://open.spotify.com/user/aqowup3436r3wevile0yvclmk" target="_blank">![Spotify](https://notom.vercel.app/spotify)</a>
 
 >Want to use this card? [Say no more!](https://github.com/Om-Thorat/Readme-Spotify-Now-Playing)
 
