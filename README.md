@@ -8,7 +8,6 @@ Hi 👋 My name is Om!
 <!-- * 🧠  I'm currently learning what i want to learn and what i need to learn. -->
 <!-- * ♟️  Always up for a chess game. -->
 * 🖥️  Get to know me more at [NotOm](https://om-thorat.github.io)
-* 🙇  Really REALLY sorry for unclean / undocumented code, I still have an exam to prepare for so always in a rush.
 * 🌠  I Usually use **.py  .ts  .rs** and for frameworks **.svelte  .astro  flask and tauri.**
 
 ### Some active silly little websites and apps🎈
