@@ -9,6 +9,7 @@ Hi 👋 My name is Om!
 <!-- * ♟️  Always up for a chess game. -->
 * 🖥️  Get to know me more at [NotOm](https://om-thorat.github.io)
 * 🌠  I Usually use **.py  .ts  .rs** and for frameworks **.svelte  .astro  flask and tauri.**
+* 🍲  Currently cooking up [Paneer](https://github.com/Om-Thorat/Paneer)
 
 ### Some active silly little websites and apps🎈
 [Defer 🪄](https://github.com/Om-Thorat/Defer)
